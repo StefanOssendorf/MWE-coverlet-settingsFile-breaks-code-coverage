@@ -1,0 +1,1 @@
+# MWE-coverlet-settingsFile-breaks-code-coverage
